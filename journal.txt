@@ -1,0 +1,8 @@
+
+This project is a sandbox to test out some fluid simulations of my own. The initial project was created with UE5.6 Editor (custom built locally)
+using the 3rd person template.
+
+Generate Project Files (from powershell) :
+
+
+E:\UE5\GenerateProjectFiles.bat "E:\Unreal5Projects\OceanQSurfer\OceanQSurfer.uproject" -Game
